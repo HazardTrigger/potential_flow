@@ -118,7 +118,7 @@ This package needs to install the following dependencies. For details, please se
 
 ## Usage
 
-Example
+###Example
 ```python
     import pandas as pd
     from potential_flow import pf    
@@ -131,10 +131,10 @@ Example
     x, y, derivation = pf.potential_flow(lon, lat, w1, w2) # generate flow field data
     pf.plot(x, y, derivation) # visualization
 ```
-Result
+###Result
 ![](https://github.com/HazardTrigger/potential_flow/blob/master/images/result.png)
 
-Export data for leaflet or Mapbox
+###Export data for leaflet or Mapbox
 
 ```python
 from potential_flow import pf
@@ -142,7 +142,7 @@ from potential_flow import pf
 data = pf.toGeojson(x, y, derivation)
 ```
 
-Export data for D3
+###Export data for D3
 
 ```python
 from potential_flow import pf
