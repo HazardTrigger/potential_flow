@@ -165,8 +165,7 @@ Distributed under the GNU License. See `LICENSE` for more information.
 ## Contact
 
 [@Junqi Wu]() - wujunqi@tju.edu.cn
-
-Project Link: [https://github.com/HazardTrigger/potential_flow](https://github.com/HazardTrigger/potential_flow)
+[@Zhibin Niu]() - zniu@tju.edu.cn
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
