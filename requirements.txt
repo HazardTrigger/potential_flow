@@ -1,0 +1,6 @@
+matplotlib==3.3.2
+mplleaflet==0.0.5
+numpy
+pandas
+scikit-learn
+scipy

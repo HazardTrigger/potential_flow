@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+potential_flow/Potential_flow.egg-info/PKG-INFO
+potential_flow/Potential_flow.egg-info/SOURCES.txt
+potential_flow/Potential_flow.egg-info/dependency_links.txt
+potential_flow/Potential_flow.egg-info/top_level.txt
