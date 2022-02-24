@@ -117,7 +117,7 @@ This package needs to install the following dependencies. For details, please se
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-
+This package can be used for any spatiotemporal data, in the example using electricity consumption data to demonstrate feasibility.
 ### Example
 ```python
     import pandas as pd
