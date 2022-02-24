@@ -75,7 +75,7 @@ demand shifts in a user-friendly way to help utilities balance energy supply and
 package is an implementation of the algorithm described in the
 article: [`Understanding energy demand behaviors through spatio-temporal smart meter data analysis`.](https://www.sciencedirect.com/science/article/pii/S0360544221007428)
 
-[![](images\modeling-1.png)](https://www.sciencedirect.com/science/article/pii/S0360544221007428)
+[![](.\images\modeling-1.png)](https://www.sciencedirect.com/science/article/pii/S0360544221007428)
 
 Schematic diagram of energy demand shift modeling. The procedure for modeling the energy demand shift can be divided
 into three steps: 1) The locality data is weighted by the energy consumption at each moment; 2) Strength maps of the
@@ -132,7 +132,7 @@ Example
     pf.plot(x, y, derivation) # visualization
 ```
 Result
-![](images\result.png)
+![](.\images\result.png)
 
 Export data for leaflet or Mapbox
 
