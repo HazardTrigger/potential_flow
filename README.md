@@ -66,7 +66,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About
 
 Understanding the spatio-temporal patterns of energy consumption can help utilities improve operations, develop energy
 strategies and offer personalized services. For electricity consumption data, we found that there exist demand shifts
