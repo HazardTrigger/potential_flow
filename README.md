@@ -164,8 +164,8 @@ Distributed under the GNU License. See `LICENSE` for more information.
 
 ## Contact
 
-[@Junqi Wu]() - wujunqi@tju.edu.cn
-[@Zhibin Niu]() - zniu@tju.edu.cn
+* [@Junqi Wu]() - wujunqi@tju.edu.cn
+* [@Zhibin Niu]() - zniu@tju.edu.cn
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
